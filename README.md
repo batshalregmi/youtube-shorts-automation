@@ -1,0 +1,1 @@
+Install the following extension in your selenium instance of chrome: https://chromewebstore.google.com/detail/turbo-downloader-for-inst/cpgaheeihidjmolbakklolchdplenjai
